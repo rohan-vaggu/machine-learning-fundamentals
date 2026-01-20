@@ -70,5 +70,3 @@ The dataset contains **50,000+ records** provided by an industry environment.
 
 ---
 
-## 📁 Project Structure
-
