@@ -92,8 +92,8 @@ Domain: Machine Learning & Artificial Intelligence
 **Rohan Vaggu**  
 Machine Learning Enthusiast | AI & Data Science  
 
-🔗 GitHub: *(Add your profile link)*  
-🔗 LinkedIn: *(Add your profile link)*
+🔗 GitHub: *https://github.com/rohan-vaggu*  
+🔗 LinkedIn: *https://www.linkedin.com/in/rohan-vaggu/*
 
 ---
 
